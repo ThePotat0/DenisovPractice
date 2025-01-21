@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Wform\\Wform.csproj": {}
+    "C:\\Users\\user\\Desktop\\Wform\\DenisovPractice\\Wform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Wform\\Wform.csproj": {
+    "C:\\Users\\user\\Desktop\\Wform\\DenisovPractice\\Wform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Wform\\Wform.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Wform\\DenisovPractice\\Wform.csproj",
         "projectName": "Wform",
-        "projectPath": "C:\\Users\\user\\Desktop\\Wform\\Wform.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Wform\\DenisovPractice\\Wform.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Wform\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Wform\\DenisovPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
